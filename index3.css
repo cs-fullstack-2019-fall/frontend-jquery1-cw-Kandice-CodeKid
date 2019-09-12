@@ -1,0 +1,7 @@
+table, td{
+    width: 100%;
+    border: black solid 2px;
+}
+/*tr:nth-child(odd) {*/
+/*    background-color: grey;*/
+/*}*/

@@ -1,0 +1,14 @@
+.redText{
+    color: red;
+}
+#myElement{
+    color: blue;
+}
+#green_white{
+    background-color: green;
+    color: white;
+}
+#orange_pink{
+    background-color: orange;
+    color: pink;
+}
