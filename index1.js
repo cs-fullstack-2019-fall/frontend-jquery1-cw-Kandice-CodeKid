@@ -4,3 +4,5 @@
 $('#myElement').click(function () {
     alert("myElement was clicked!");
 });
+
+// !! : use jQuery to set color attributes 
